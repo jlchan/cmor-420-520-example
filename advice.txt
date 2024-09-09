@@ -8,7 +8,7 @@ S01506496
 S01506640
 S01424414
 S01506279
-S01414095
+S01414095 Learn how to merge conflicts before you end up having to use Google Docs.
 S01436626
 S01417195
 S01466189
