@@ -35,7 +35,7 @@ S01334386
 S01440603
 S01435924
 S01506505
-S01384039
+S01384039: I would recommend asking questions whenever you are confused about something. 
 S01406267
 S01457656
 S01506516
