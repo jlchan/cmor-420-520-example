@@ -3,7 +3,7 @@ S01375346
 S01407832
 S01470040
 S01437319
-S01373559
+S01373559 Make sure to always attend class and try problems first before looking up solutions
 S01506496
 S01506640
 S01424414
