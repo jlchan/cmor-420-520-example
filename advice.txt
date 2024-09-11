@@ -33,6 +33,8 @@ S01400986
 S01405488
 S01334386
 S01440603 If you can't figure something out, ask Dr. Google. Although don't trust everyhting Google says.
+S01334386 In every situation, give praise
+S01440603
 S01435924
 S01506505
 S01384039
