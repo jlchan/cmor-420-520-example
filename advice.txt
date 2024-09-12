@@ -25,7 +25,7 @@ S01506513 "don't miss lecture"
 S01506474
 S01419488
 S01506514
-S01413411
+S01413411 - Eat a healthy breakfast every morning, and get some exercise when you can. It'll help you focus. 
 S01468455
 S01506502
 S01406833
