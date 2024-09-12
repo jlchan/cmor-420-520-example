@@ -1,21 +1,21 @@
 S01470417
 S01375346
 S01407832
-S01470040
+S01470040 Hey There hope you guys are enjoying git! 
 S01437319
-S01373559
+S01373559 Make sure to always attend class and try problems first before looking up solutions
 S01506496
 S01506640
-S01424414
+S01424414 I recommend getting 8 hours of sleep each night and drinking lots of water.
 S01506279
 S01414095
-S01436626
+S01436626 Put yourself out there, and try new things while you still have time!
 S01417195
 S01466189
-S01469603
+S01469603: This course is really amazing. My advice to my fellow classmates will be to get the most out of this class.
 S01373254
-S01470225
-S01506509
+S01470225 First sentence. Second sentence.
+S01506509 Constant dropping wears away stones
 S01467216: Start doing Yoga, it's a lot of fun.
 S01347502
 S01446808
@@ -31,7 +31,7 @@ S01506502
 S01406833
 S01400986
 S01405488
-S01334386
+S01334386 In every situation, give praise
 S01440603
 S01435924
 S01506505
