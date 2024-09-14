@@ -39,6 +39,9 @@ S01405488
 S01440603 If you can't figure something out, ask Dr. Google. Although don't trust everyhting Google says.
 S01334386 In every situation, give praise
 S01440603
+S01435924
+S01506505 - Dr. Chan brings it on like Donkey Kong
+S01384039
 S01435924: Do your homework early the day they are released, it will save you a lot of headache down the line. 
 S01506505
 S01384039: I would recommend asking questions whenever you are confused about something. 
