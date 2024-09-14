@@ -1,6 +1,9 @@
 S01470417
 S01375346 Set the dryer temperature to 'high', otherwise you will need to run it twice. Don't leave yourself with a full schedule for senior year, take those classes earlier.
 S01407832
+S01470040
+S01437319 Keep track of your due dates so you don't fall behind.
+S01373559
 S01470040 Hey There hope you guys are enjoying git! 
 S01437319
 S01373559 Make sure to always attend class and try problems first before looking up solutions
