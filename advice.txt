@@ -1,41 +1,55 @@
 S01470417
 S01375346
 S01407832 Start work early and stay organized. Make sure to ask for help when needed! :) 
+S01375346 Set the dryer temperature to 'high', otherwise you will need to run it twice. Don't leave yourself with a full schedule for senior year, take those classes earlier.
+S01407832
 S01470040
-S01437319
+S01437319 Keep track of your due dates so you don't fall behind.
 S01373559
+S01470040 Hey There hope you guys are enjoying git! 
+S01437319
+S01373559 Make sure to always attend class and try problems first before looking up solutions
 S01506496
 S01506640
-S01424414
+S01424414 I recommend getting 8 hours of sleep each night and drinking lots of water.
 S01506279
 S01414095
-S01436626
+S01436626 Put yourself out there, and try new things while you still have time!
 S01417195
 S01466189
-S01469603
+S01469603: This course is really amazing. My advice to my fellow classmates will be to get the most out of this class.
 S01373254
 S01470225
 S01506509
 S01467216
-S01347502
+S01347502: "Stop pouring, start drinking." It is easy to look for more information (pouring). It's time to actually use that information (drinking). You got it!
 S01446808
+S01470225 First sentence. Second sentence.
+S01506509 Constant dropping wears away stones
+S01467216: Start doing Yoga, it's a lot of fun.
+S01347502
+S01446808 -- When Life Gives You Lemons, Make Lemonade!
 S01375365
-S01399648
-S01506513
+S01399648   Make sure to eat a balanced diet and get eight hours of sleep every night.
+S01506513 "don't miss lecture"
 S01506474
 S01419488
 S01506514
-S01413411
+S01413411 - Eat a healthy breakfast every morning, and get some exercise when you can. It'll help you focus. 
 S01468455
 S01506502
 S01406833
-S01400986
+S01400986 Do not procrastinate.
 S01405488
-S01334386
+S01440603 If you can't figure something out, ask Dr. Google. Although don't trust everyhting Google says.
+S01334386 In every situation, give praise
 S01440603
 S01435924
-S01506505
+S01506505 - Dr. Chan brings it on like Donkey Kong
 S01384039
+S01435924: Do your homework early the day they are released, it will save you a lot of headache down the line. 
+S01506505
+S01384039: I would recommend asking questions whenever you are confused about something. 
 S01406267
 S01457656
 S01506516
