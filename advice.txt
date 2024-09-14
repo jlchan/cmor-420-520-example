@@ -6,6 +6,8 @@ S01407832
 S01470040
 S01437319 Keep track of your due dates so you don't fall behind.
 S01373559
+S01506496   //Be sure to get outside and spend some time in the sun! Call your mom and dad and tell them that you love them.
+S01506640
 S01470040 Hey There hope you guys are enjoying git! 
 S01437319
 S01373559 Make sure to always attend class and try problems first before looking up solutions
