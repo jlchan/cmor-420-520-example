@@ -10,6 +10,8 @@ S01470040 Hey There hope you guys are enjoying git!
 S01437319
 S01373559 Make sure to always attend class and try problems first before looking up solutions
 S01506496
+S01506640 "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear". - Master Oogway
+S01424414
 S01506640
 S01424414 I recommend getting 8 hours of sleep each night and drinking lots of water.
 S01506279
