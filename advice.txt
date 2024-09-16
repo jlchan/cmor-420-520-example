@@ -62,7 +62,7 @@ S01384039: I would recommend asking questions whenever you are confused about so
 S01406267
 S01457656 Sid richardson vending machine almost never vend the selected goods. Don't use it.
 S01506516
-S01437778
+S01437778: Try to appreciate what you have. The grass is always greener on the other side.
 S01421865
 S01506482
 S01375084
