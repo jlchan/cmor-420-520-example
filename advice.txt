@@ -63,6 +63,6 @@ S01406267
 S01457656 Sid richardson vending machine almost never vend the selected goods. Don't use it.
 S01506516
 S01437778
-S01421865
+S01421865 - Never put off till tomorrow what you can avoid all together.
 S01506482
 S01375084
