@@ -60,7 +60,7 @@ S01435924: Do your homework early the day they are released, it will save you a 
 S01506505
 S01384039: I would recommend asking questions whenever you are confused about something. 
 S01406267
-S01457656
+S01457656 Sid richardson vending machine almost never vend the selected goods. Don't use it.
 S01506516
 S01437778
 S01421865
