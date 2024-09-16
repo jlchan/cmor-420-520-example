@@ -41,15 +41,15 @@ S01446808 -- When Life Gives You Lemons, Make Lemonade!
 S01375365
 S01399648   Make sure to eat a balanced diet and get eight hours of sleep every night.
 S01506513 "don't miss lecture"
-S01506474
+S01506474: Learn how to use Linux and do the homework
 S01419488 Do not watch 10 straight hours of football on Sunday. This is not productive.
-S01506514
+S01506514 The id above is the id of Yuhao. He is a stupid guy who didn't see the request of exerices.
 S01413411 - Eat a healthy breakfast every morning, and get some exercise when you can. It'll help you focus. 
-S01468455
+S01468455 I live life every day, hoping that I am a slightly kinder person than I was the day before. Smile, it's gonna be okay, Dereshishishi! 
 S01506502
-S01406833
+S01406833: Love all, trust few! That is what Jesus says and loves(\ignore the Euphyphro dilemna)
 S01400986 Do not procrastinate.
-S01405488
+S01405488 Make sure to get 8 hours of sleep. You don't want to show up to class sick and tired.
 S01440603 If you can't figure something out, ask Dr. Google. Although don't trust everyhting Google says.
 S01334386 In every situation, give praise
 S01440603
@@ -59,10 +59,10 @@ S01384039
 S01435924: Do your homework early the day they are released, it will save you a lot of headache down the line. 
 S01506505
 S01384039: I would recommend asking questions whenever you are confused about something. 
-S01406267
+S01406267 My advice is that you should go to class. Also, stay away from Krit.
 S01457656 Sid richardson vending machine almost never vend the selected goods. Don't use it.
-S01506516
-S01437778
-S01421865
+S01506516 You might always need to go over what you learned in class.
+S01437778: Try to appreciate what you have. The grass is always greener on the other side.
+S01421865 - Never put off till tomorrow what you can avoid all together.
 S01506482
-S01375084
+S01375084 Stay hydrated
