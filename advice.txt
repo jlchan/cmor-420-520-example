@@ -42,7 +42,7 @@ S01375365
 S01399648   Make sure to eat a balanced diet and get eight hours of sleep every night.
 S01506513 "don't miss lecture"
 S01506474
-S01419488
+S01419488 Do not watch 10 straight hours of football on Sunday. This is not productive.
 S01506514
 S01413411 - Eat a healthy breakfast every morning, and get some exercise when you can. It'll help you focus. 
 S01468455
